@@ -1,0 +1,1 @@
+fastapi==0.115.0 uvicorn==0.30.6 sqlalchemy==2.0.35 pydantic==2.9.2 python-dotenv==1.0.1 deap==1.4.1 numpy==2.1.1 pytest==8.3.3 alembic==1.13.3
